@@ -1,1 +1,1 @@
-# quran-gpt-2
+# quran-gpt-2-Memoona
